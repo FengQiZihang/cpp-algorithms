@@ -1,6 +1,6 @@
 # 05 画展布置
 
-相关链接: [`Problem`](./Problem.md) · [`数学解释`](./数学解释.md) · [`最终代码`](./05画展布置02.cpp)
+相关链接: [`Problem`](./Problem.md) · [`Math`](./Math.md) · [`最终代码`](./05画展布置02.cpp)
 
 ## 题目链接
 - https://www.lanqiao.cn/problems/20532/learning/

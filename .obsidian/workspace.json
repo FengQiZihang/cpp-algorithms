@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "第十六届B组/05画展布置/Solution.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +196,8 @@
   },
   "active": "87cfae6be1038543",
   "lastOpenFiles": [
-    "第十六届B组/05画展布置/Solution.md",
     "第十六届B组/05画展布置/Problem.md",
+    "第十六届B组/05画展布置/Solution.md",
     "第十六届B组/05画展布置/Math.md"
   ]
 }
