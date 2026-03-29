@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第十六届B组/05画展布置/Solution.md",
-                "mode": "source",
+                "file": "第十六届B组/05画展布置/Math.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solution"
+              "title": "Math"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第十六届B组/05画展布置/Solution.md",
+                "file": "第十六届B组/05画展布置/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Solution 的反向链接列表"
+              "title": "Math 的反向链接列表"
             }
           },
           {
