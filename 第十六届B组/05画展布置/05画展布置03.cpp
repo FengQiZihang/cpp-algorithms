@@ -18,9 +18,3 @@ int main() {
     cout << ans << "\n";
     return 0;
 }
-/*
-题目链接
-https://www.lanqiao.cn/problems/20532/learning/
-N个正整数数 挑选M个数, 使M个数的变化程度最小, 输出最小的变化程度.
-L = |num2^2 - num1^2| 然后求和.
-*/
