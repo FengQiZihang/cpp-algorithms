@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "第十六届B组/05画展布置/Solution.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Solution"
@@ -179,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +187,7 @@
   "lastOpenFiles": [
     "第十六届B组/05画展布置/Problem.md",
     "第十六届B组/05画展布置/Solution.md",
+    "README.md",
     "第十六届B组/05画展布置/Math.md"
   ]
 }
