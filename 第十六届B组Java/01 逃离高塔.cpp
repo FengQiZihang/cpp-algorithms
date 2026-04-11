@@ -16,4 +16,5 @@ int main() {
 }
 /*
 https://www.lanqiao.cn/problems/20560/learning/
+统计 立方数中个位数字为 3 的数的个数
 */
